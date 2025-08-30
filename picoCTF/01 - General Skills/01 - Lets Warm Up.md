@@ -11,7 +11,7 @@ picoCTF{p}
 
 #### Forma 2
 
-```pyhon
+```python
 	# Hexadecimal a ASCII
 def hex_to_ascii(hex_string):
     # Elimina el "0x" si está presente

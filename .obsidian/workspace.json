@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbfa73455021c240",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "3121901850d2b58b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - General Skills/01 - Lets Warm Up.md",
+                "file": "plantilla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Lets Warm Up"
+              "title": "plantilla"
+            }
+          },
+          {
+            "id": "b5d010754375eb70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/01 - General Skills/05 - First Grep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 - First Grep"
             }
           }
         ],
@@ -182,14 +182,18 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "3121901850d2b58b",
+  "active": "b5d010754375eb70",
   "lastOpenFiles": [
     "plantilla.md",
+    "picoCTF/01 - General Skills/05 - First Grep.md",
+    "picoCTF/01 - General Skills/04 - Bases.md",
     "picoCTF/01 - General Skills/01 - Lets Warm Up.md",
+    "picoCTF/01 - General Skills/03 - Warmed Up.md",
+    "picoCTF/01 - General Skills/02 - 2Warm.md",
+    "Sin título.md",
     "README.md",
     "picoCTF/Sin nombre/desktop.ini",
     "picoCTF/01 - General Skills",
-    "picoCTF",
-    "Sin título.md"
+    "picoCTF"
   ]
 }
