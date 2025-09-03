@@ -6,7 +6,7 @@
       {
         "id": "81fdd872d696f57b",
         "type": "tabs",
-        "dimension": 70.58823529411765,
+        "dimension": 80.43052837573386,
         "children": [
           {
             "id": "b5d010754375eb70",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - General Skills/05 - First Grep.md",
+                "file": "picoCTF/02 - General Skills 2/06 - Tab, Tab, Attack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - First Grep"
+              "title": "06 - Tab, Tab, Attack"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "96264615ae96b59e",
         "type": "tabs",
-        "dimension": 29.411764705882355,
+        "dimension": 19.569471624266143,
         "children": [
           {
             "id": "3121901850d2b58b",
@@ -191,9 +191,18 @@
   },
   "active": "b5d010754375eb70",
   "lastOpenFiles": [
+    "plantilla.md",
+    "picoCTF/02 - General Skills 2/06 - Tab, Tab, Attack.md",
+    "picoCTF/02 - General Skills 2/05 - Useless.md",
+    "picoCTF/notas.md",
+    "picoCTF/02 - General Skills 2/04 - Static ain't always noise.md",
+    "picoCTF/02 - General Skills 2/03 - Wave a flag.md",
+    "picoCTF/02 - General Skills 2/02 - Strings it.md",
+    "picoCTF/02 - General Skills 2/01 - Based.md",
+    "picoCTF/01 - General Skills/05 - First Grep.md",
+    "picoCTF/02 - General Skills 2",
     "picoCTF/01 - General Skills/10 - Nice netcat....md",
     "picoCTF/01 - General Skills/09 - Glitch Cat.md",
-    "plantilla.md",
     "picoCTF/01 - General Skills/Sin nombre",
     "picoCTF/01 - General Skills/08 - Pumbing.md",
     "picoCTF/01 - General Skills/07 - what's a net cat.md",
@@ -201,7 +210,6 @@
     "picoCTF/01 - General Skills/04 - Bases.md",
     "picoCTF/01 - General Skills/06 - Obedient Cat.md",
     "Pasted image 20250901152628.png",
-    "picoCTF/01 - General Skills/05 - First Grep.md",
     "Pasted image 20250830140343.png",
     "picoCTF/01 - General Skills/01 - Lets Warm Up.md",
     "picoCTF/01 - General Skills/03 - Warmed Up.md",
