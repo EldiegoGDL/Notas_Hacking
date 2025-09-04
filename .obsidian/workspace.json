@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/02 - General Skills 2/06 - Tab, Tab, Attack.md",
+                "file": "picoCTF/02 - General Skills 2/10 - First Find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 - Tab, Tab, Attack"
+              "title": "10 - First Find"
             }
           }
         ]
@@ -191,10 +191,17 @@
   },
   "active": "b5d010754375eb70",
   "lastOpenFiles": [
+    "picoCTF/02 - General Skills 2/09 - Big zip.md",
+    "picoCTF/02 - General Skills 2/10 - First Find.md",
     "plantilla.md",
+    "picoCTF/02 - General Skills 2/08 - repetitions.md",
+    "picoCTF/02 - General Skills 2/07 - Magikarp Ground Mission.md",
+    "Pasted image 20250904095050.png",
+    "Pasted image 20250904095046.png",
+    "picoCTF/notas.md",
+    "picoCTF/01 - General Skills/04 - Bases.md",
     "picoCTF/02 - General Skills 2/06 - Tab, Tab, Attack.md",
     "picoCTF/02 - General Skills 2/05 - Useless.md",
-    "picoCTF/notas.md",
     "picoCTF/02 - General Skills 2/04 - Static ain't always noise.md",
     "picoCTF/02 - General Skills 2/03 - Wave a flag.md",
     "picoCTF/02 - General Skills 2/02 - Strings it.md",
@@ -207,7 +214,6 @@
     "picoCTF/01 - General Skills/08 - Pumbing.md",
     "picoCTF/01 - General Skills/07 - what's a net cat.md",
     "picoCTF/01 - General Skills/02 - 2Warm.md",
-    "picoCTF/01 - General Skills/04 - Bases.md",
     "picoCTF/01 - General Skills/06 - Obedient Cat.md",
     "Pasted image 20250901152628.png",
     "Pasted image 20250830140343.png",
