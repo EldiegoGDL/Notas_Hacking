@@ -9,35 +9,20 @@
         "dimension": 80.43052837573386,
         "children": [
           {
-            "id": "b5d010754375eb70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/03 - General Skills 3/07 - PW Crack 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07 - PW Crack 1"
-            }
-          },
-          {
             "id": "3a6ede239b1af553",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/06 - picoCTF Web 2/03 - Scavenger Hunt.md",
+                "file": "picoCTF/07 - picoCTF Web 3/03 - JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Scavenger Hunt"
+              "title": "03 - JaWT Scratchpad"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "96264615ae96b59e",
@@ -115,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c3367a3412e2784c",
@@ -206,28 +192,32 @@
   },
   "active": "3a6ede239b1af553",
   "lastOpenFiles": [
-    "Pasted image 20250924000114.png",
-    "Pasted image 20250923235959.png",
-    "picoCTF/06 - picoCTF Web 2/02 - Cookies.md",
-    "picoCTF/06 - picoCTF Web 2/03 - Scavenger Hunt.md",
-    "Pasted image 20250923234029.png",
-    "Pasted image 20250923233822.png",
+    "picoCTF/03 - General Skills 3/07 - PW Crack 1.md",
+    "picoCTF/07 - picoCTF Web 3/03 - JaWT Scratchpad.md",
+    "Pasted image 20250926100235.png",
+    "Pasted image 20250926092855.png",
+    "picoCTF/07 - picoCTF Web 3/02 - More SQLi.md",
+    "picoCTF/07 - picoCTF Web 3/01 - Irish-Name-Repo 1.md",
     "plantilla.md",
+    "Pasted image 20250924110631.png",
+    "Pasted image 20250924110558.png",
+    "Pasted image 20250924105701.png",
+    "Pasted image 20250924104912.png",
+    "Pasted image 20250924104612.png",
+    "Pasted image 20250924104337.png",
+    "Pasted image 20250924103315.png",
+    "Pasted image 20250924103258.png",
+    "picoCTF/06 - picoCTF Web 2/03 - Scavenger Hunt.md",
+    "picoCTF/07 - picoCTF Web 3",
+    "picoCTF/06 - picoCTF Web 2/02 - Cookies.md",
     "picoCTF/06 - picoCTF Web 2/01 - GET A HEAD.md",
-    "Pasted image 20250922111636.png",
-    "Pasted image 20250922111614.png",
     "picoCTF/05 - picoCTF Web 1/04 - dont-use-client-side.md",
     "picoCTF/06 - picoCTF Web 2",
     "picoCTF/05 - picoCTF Web 1/02 - where are the robots.md",
     "picoCTF/05 - picoCTF Web 1/03 - logon.md",
     "picoCTF/05 - picoCTF Web 1/05 - picobrowser.md",
     "picoCTF/05 - picoCTF Web 1/06 - Client-side-again.md",
-    "Pasted image 20250918121516.png",
-    "Pasted image 20250918121239.png",
     "picoCTF/05 - picoCTF Web 1/01 - Insp3ct0r.md",
-    "Pasted image 20250917104301.png",
-    "Pasted image 20250917104215.png",
-    "Pasted image 20250917102951.png",
     "picoCTF/04 - General Skills (Tarea 1)/10 - ASCII Numbers.md",
     "picoCTF/05 - picoCTF Web 1",
     "picoCTF/04 - General Skills (Tarea 1)/09 - binhexa.md",
@@ -241,16 +231,12 @@
     "picoCTF/02 - General Skills 2/07 - Magikarp Ground Mission.md",
     "picoCTF/02 - General Skills 2/05 - Useless.md",
     "picoCTF/02 - General Skills 2/04 - Static ain't always noise.md",
-    "picoCTF/02 - General Skills 2/03 - Wave a flag.md",
-    "picoCTF/02 - General Skills 2/02 - Strings it.md",
-    "picoCTF/02 - General Skills 2/01 - Based.md",
     "picoCTF/04 - General Skills (Tarea 1)",
     "picoCTF/03 - General Skills 3/Sin nombre",
     "picoCTF/03 - General Skills 3",
     "picoCTF/02 - General Skills 2",
     "picoCTF/01 - General Skills/Sin nombre",
     "picoCTF/Sin nombre/desktop.ini",
-    "picoCTF/01 - General Skills",
-    "picoCTF"
+    "picoCTF/01 - General Skills"
   ]
 }
