@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/07 - picoCTF Web 3/03 - JaWT Scratchpad.md",
+                "file": "picoCTF/08 - picoCTF Web 4/02 - SOAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - JaWT Scratchpad"
+              "title": "02 - SOAP"
             }
           }
         ]
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c3367a3412e2784c",
@@ -192,21 +191,26 @@
   },
   "active": "3a6ede239b1af553",
   "lastOpenFiles": [
-    "picoCTF/03 - General Skills 3/07 - PW Crack 1.md",
+    "picoCTF/08 - picoCTF Web 4/01 - MatchTheRegex.md",
+    "picoCTF/08 - picoCTF Web 4/02 - SOAP.md",
+    "picoCTF/08 - picoCTF Web 4/03 - Trickster.md",
+    "picoCTF/08 - picoCTF Web 4/04 - Most Cookies.md",
+    "Pasted image 20250930154329.png",
+    "Pasted image 20250930144223.png",
+    "Pasted image 20250930140009.png",
+    "Pasted image 20250930134744.png",
+    "Pasted image 20250930133532.png",
+    "Pasted image 20250930133428.png",
+    "Pasted image 20250930133424.png",
+    "Pasted image 20250930133358.png",
+    "plantilla.md",
     "picoCTF/07 - picoCTF Web 3/03 - JaWT Scratchpad.md",
+    "picoCTF/08 - picoCTF Web 4",
+    "picoCTF/03 - General Skills 3/07 - PW Crack 1.md",
     "Pasted image 20250926100235.png",
     "Pasted image 20250926092855.png",
     "picoCTF/07 - picoCTF Web 3/02 - More SQLi.md",
     "picoCTF/07 - picoCTF Web 3/01 - Irish-Name-Repo 1.md",
-    "plantilla.md",
-    "Pasted image 20250924110631.png",
-    "Pasted image 20250924110558.png",
-    "Pasted image 20250924105701.png",
-    "Pasted image 20250924104912.png",
-    "Pasted image 20250924104612.png",
-    "Pasted image 20250924104337.png",
-    "Pasted image 20250924103315.png",
-    "Pasted image 20250924103258.png",
     "picoCTF/06 - picoCTF Web 2/03 - Scavenger Hunt.md",
     "picoCTF/07 - picoCTF Web 3",
     "picoCTF/06 - picoCTF Web 2/02 - Cookies.md",
@@ -226,17 +230,11 @@
     "picoCTF/04 - General Skills (Tarea 1)/06 - blame game.md",
     "picoCTF/04 - General Skills (Tarea 1)/04 - committee issue.md",
     "picoCTF/04 - General Skills (Tarea 1)/05 - time machine.md",
-    "picoCTF/02 - General Skills 2/09 - Big zip.md",
-    "picoCTF/02 - General Skills 2/08 - repetitions.md",
-    "picoCTF/02 - General Skills 2/07 - Magikarp Ground Mission.md",
-    "picoCTF/02 - General Skills 2/05 - Useless.md",
-    "picoCTF/02 - General Skills 2/04 - Static ain't always noise.md",
     "picoCTF/04 - General Skills (Tarea 1)",
     "picoCTF/03 - General Skills 3/Sin nombre",
     "picoCTF/03 - General Skills 3",
     "picoCTF/02 - General Skills 2",
     "picoCTF/01 - General Skills/Sin nombre",
-    "picoCTF/Sin nombre/desktop.ini",
-    "picoCTF/01 - General Skills"
+    "picoCTF/Sin nombre/desktop.ini"
   ]
 }
