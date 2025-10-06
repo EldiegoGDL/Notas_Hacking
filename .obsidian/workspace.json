@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "96264615ae96b59e",
+        "id": "931695334906c374",
         "type": "tabs",
         "children": [
           {
-            "id": "3121901850d2b58b",
+            "id": "bf0e8262446e7dda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/10 - PicoCTF Web (Tarea 2)/10 - WebDecode.md",
+                "file": "picoCTF/11 - picoCTF Forensic 2/05 - shark on wire 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - WebDecode"
+              "title": "05 - shark on wire 2"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "picoCTF/11 - picoCTF Forensic 2/05 - shark on wire 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de 05 - shark on wire 2"
             }
           },
           {
@@ -117,6 +118,20 @@
               },
               "icon": "links-going-out",
               "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "3121901850d2b58b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plantilla.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "plantilla"
             }
           },
           {
@@ -149,12 +164,12 @@
               "title": "Esquema de Sin título"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +182,26 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "3121901850d2b58b",
+  "active": "bf0e8262446e7dda",
   "lastOpenFiles": [
+    "picoCTF/11 - picoCTF Forensic 2/04 - like1000.md",
+    "picoCTF/11 - picoCTF Forensic 2/03 - c0rrupt.md",
+    "picoCTF/11 - picoCTF Forensic 2/02 - WhitePages.md",
+    "picoCTF/11 - picoCTF Forensic 2/01 - m00nwalk.md",
+    "picoCTF/11 - picoCTF Forensic 2/05 - shark on wire 2.md",
+    "Pasted image 20251006162526.png",
+    "Pasted image 20251006161930.png",
+    "Pasted image 20251006161927.png",
+    "Pasted image 20251006155832.png",
+    "Pasted image 20251006150731.png",
+    "Pasted image 20251006145607.png",
+    "Pasted image 20251006144500.png",
+    "Pasted image 20251006135910.png",
+    "Pasted image 20251006135815.png",
+    "Pasted image 20251006134946.png",
+    "plantilla.md",
+    "picoCTF/10 - PicoCTF Web (Tarea 2)/10 - WebDecode.md",
+    "picoCTF/11 - picoCTF Forensic 2",
     "picoCTF/10 - PicoCTF Web (Tarea 2)/09 - Unminify.md",
     "picoCTF/05 - picoCTF Web 1/06 - Client-side-again.md",
     "picoCTF/05 - picoCTF Web 1/05 - picobrowser.md",
@@ -182,38 +215,19 @@
     "picoCTF/07 - picoCTF Web 3/03 - JaWT Scratchpad.md",
     "picoCTF/08 - picoCTF Web 4/01 - MatchTheRegex.md",
     "picoCTF/10 - PicoCTF Web (Tarea 2)/08 - SQLiLite.md",
-    "Pasted image 20251005194048.png",
-    "Pasted image 20251005194033.png",
     "picoCTF/10 - PicoCTF Web (Tarea 2)/07 - Secrets.md",
     "picoCTF/10 - PicoCTF Web (Tarea 2)/06 - Roboto Sans.md",
     "picoCTF/10 - PicoCTF Web (Tarea 2)/05 - Power Cookie.md",
     "picoCTF/10 - PicoCTF Web (Tarea 2)/04 - Local Authority.md",
-    "Pasted image 20251005183441.png",
     "picoCTF/10 - PicoCTF Web (Tarea 2)/03 - Intro to Burp.md",
-    "picoCTF/10 - PicoCTF Web (Tarea 2)/01 - Incluides.md",
-    "picoCTF/10 - PicoCTF Web (Tarea 2)/02 - Inspect html.md",
-    "picoCTF/10 - PicoCTF Web (Tarea 2)/10 - WebDecode.md",
-    "plantilla.md",
-    "picoCTF/10 - PicoCTF Web (Tarea 2)/Sin título.md",
-    "picoCTF/09 - picoCTF Forensic 1/01 - Glory of the Garden.md",
     "picoCTF/10 - PicoCTF Web (Tarea 2)",
-    "picoCTF/09 - picoCTF Forensic 1/02 - So Meta.md",
-    "picoCTF/09 - picoCTF Forensic 1/03 - shark on wire 1.md",
-    "Pasted image 20251002090024.png",
-    "Pasted image 20251002084424.png",
-    "Pasted image 20251002084336.png",
-    "Pasted image 20251002084222.png",
     "picoCTF/09 - picoCTF Forensic 1",
-    "Pasted image 20250930154329.png",
-    "Pasted image 20250930144223.png",
-    "Pasted image 20250930140009.png",
     "picoCTF/08 - picoCTF Web 4",
     "picoCTF/07 - picoCTF Web 3",
     "picoCTF/06 - picoCTF Web 2",
     "picoCTF/05 - picoCTF Web 1",
     "picoCTF/04 - General Skills (Tarea 1)",
     "picoCTF/03 - General Skills 3/Sin nombre",
-    "picoCTF/03 - General Skills 3",
-    "picoCTF/02 - General Skills 2"
+    "picoCTF/03 - General Skills 3"
   ]
 }
