@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/12 - Primer Parcial/02 - parte 2/File 7 Java Code Analysis.md",
+                "file": "picoCTF/13 - picoCTF Forensic 3/05 - MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File 7 Java Code Analysis"
+              "title": "05 - MacroHard WeakEdge"
             }
           }
         ]
@@ -184,6 +184,15 @@
   },
   "active": "bf0e8262446e7dda",
   "lastOpenFiles": [
+    "picoCTF/13 - picoCTF Forensic 3/04 - tunn3l_v1s10n.md",
+    "Pasted image 20251013184911.png",
+    "picoCTF/13 - picoCTF Forensic 3/03 - Matryoshka doll.md",
+    "picoCTF/13 - picoCTF Forensic 3/02 - Webnet1.md",
+    "picoCTF/13 - picoCTF Forensic 3/01 - WebNet0.md",
+    "picoCTF/13 - picoCTF Forensic 3/05 - MacroHard WeakEdge.md",
+    "plantilla.md",
+    "picoCTF/12 - Primer Parcial/02 - parte 2/File 7 Java Code Analysis.md",
+    "picoCTF/13 - picoCTF Forensic 3",
     "Pasted image 20250923233822.png",
     "Pasted image 20250922111636.png",
     "Pasted image 20250922111614.png",
@@ -193,8 +202,6 @@
     "Pasted image 20250917102658.png",
     "Pasted image 20250904095046.png",
     "Pasted image 20250830140343.png",
-    "Pasted image 20250901152628.png",
-    "Pasted image 20250917102931.png",
     "picoCTF/07 - picoCTF Web 3/01 - Irish-Name-Repo 1.md",
     "picoCTF/07 - picoCTF Web 3/02 - More SQLi.md",
     "picoCTF/07 - picoCTF Web 3/03 - JaWT Scratchpad.md",
@@ -213,13 +220,6 @@
     "picoCTF/01 - General Skills/09 - Glitch Cat.md",
     "picoCTF/01 - General Skills/08 - Pumbing.md",
     "picoCTF/01 - General Skills/07 - what's a net cat.md",
-    "picoCTF/01 - General Skills/06 - Obedient Cat.md",
-    "picoCTF/01 - General Skills/05 - First Grep.md",
-    "picoCTF/01 - General Skills/04 - Bases.md",
-    "picoCTF/01 - General Skills/03 - Warmed Up.md",
-    "picoCTF/01 - General Skills/02 - 2Warm.md",
-    "picoCTF/01 - General Skills/01 - Lets Warm Up.md",
-    "picoCTF/12 - Primer Parcial/02 - parte 2/File 7 Java Code Analysis.md",
     "picoCTF/12 - Primer Parcial/02 - parte 2",
     "picoCTF/12 - Primer Parcial/01 - parte 1",
     "picoCTF/12 - Primer Parcial",
@@ -228,7 +228,6 @@
     "picoCTF/09 - picoCTF Forensic 1",
     "picoCTF/08 - picoCTF Web 4",
     "picoCTF/07 - picoCTF Web 3",
-    "picoCTF/06 - picoCTF Web 2",
-    "picoCTF/05 - picoCTF Web 1"
+    "picoCTF/06 - picoCTF Web 2"
   ]
 }
