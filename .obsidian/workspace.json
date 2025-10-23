@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/15 - picoCTF Crypto 1/07 - Wave over lambda.md",
+                "file": "picoCTF/16 - picoCTF Crypto 2/01 - rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 - Wave over lambda"
+              "title": "01 - rsa-pop-quiz"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c3367a3412e2784c",
@@ -169,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,15 +186,17 @@
   },
   "active": "bf0e8262446e7dda",
   "lastOpenFiles": [
-    "picoCTF/15 - picoCTF Crypto 1/08 - interencdec.md",
+    "plantilla.md",
+    "picoCTF/16 - picoCTF Crypto 2/01 - rsa-pop-quiz.md",
     "picoCTF/15 - picoCTF Crypto 1/07 - Wave over lambda.md",
+    "picoCTF/16 - picoCTF Crypto 2",
+    "picoCTF/15 - picoCTF Crypto 1/08 - interencdec.md",
     "picoCTF/15 - picoCTF Crypto 1/06 - Tapping.md",
     "picoCTF/15 - picoCTF Crypto 1/05 - la cifra de.md",
     "picoCTF/15 - picoCTF Crypto 1/04 - Cesar.md",
     "picoCTF/15 - picoCTF Crypto 1/03 - Easy 1.md",
     "picoCTF/15 - picoCTF Crypto 1/02 - 13.md",
     "picoCTF/15 - picoCTF Crypto 1/01 - The numbers.md",
-    "plantilla.md",
     "picoCTF/14 - picoCTF Forensic 4/01 - Milkslap.md",
     "picoCTF/15 - picoCTF Crypto 1",
     "picoCTF/14 - picoCTF Forensic 4/02 - Disk, disk, sleuth!.md",
@@ -222,13 +226,11 @@
     "picoCTF/07 - picoCTF Web 3/01 - Irish-Name-Repo 1.md",
     "picoCTF/07 - picoCTF Web 3/02 - More SQLi.md",
     "picoCTF/07 - picoCTF Web 3/03 - JaWT Scratchpad.md",
-    "picoCTF/04 - General Skills (Tarea 1)/01 - permissions.md",
     "picoCTF/12 - Primer Parcial/02 - parte 2",
     "picoCTF/12 - Primer Parcial/01 - parte 1",
     "picoCTF/12 - Primer Parcial",
     "picoCTF/11 - picoCTF Forensic 2",
     "picoCTF/10 - PicoCTF Web (Tarea 2)",
-    "picoCTF/09 - picoCTF Forensic 1",
-    "picoCTF/08 - picoCTF Web 4"
+    "picoCTF/09 - picoCTF Forensic 1"
   ]
 }
