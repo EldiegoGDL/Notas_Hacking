@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/16 - picoCTF Crypto 2/01 - rsa-pop-quiz.md",
+                "file": "picoCTF/17 - picoCTF Forensic (Tarea 3)/09 - Ph4nt0m 1ntrud3r.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - rsa-pop-quiz"
+              "title": "09 - Ph4nt0m 1ntrud3r"
             }
           }
         ]
@@ -186,8 +186,19 @@
   },
   "active": "bf0e8262446e7dda",
   "lastOpenFiles": [
-    "plantilla.md",
+    "picoCTF/17 - picoCTF Forensic (Tarea 3)/05 - Scan Surprice.md",
+    "picoCTF/17 - picoCTF Forensic (Tarea 3)/08 - RED.md",
+    "picoCTF/17 - picoCTF Forensic (Tarea 3)/09 - Ph4nt0m 1ntrud3r.md",
+    "picoCTF/17 - picoCTF Forensic (Tarea 3)/07 - Secret of the Polyglot.md",
+    "picoCTF/17 - picoCTF Forensic (Tarea 3)/06 - CanYouSee.md",
+    "picoCTF/17 - picoCTF Forensic (Tarea 3)/04 - hideme.md",
+    "picoCTF/17 - picoCTF Forensic (Tarea 3)/03 - Redaction gone wrong.md",
+    "picoCTF/17 - picoCTF Forensic (Tarea 3)/02 - St3g0.md",
+    "picoCTF/17 - picoCTF Forensic (Tarea 3)/01 - information.md",
     "picoCTF/16 - picoCTF Crypto 2/01 - rsa-pop-quiz.md",
+    "picoCTF/17 - picoCTF Forensic (Tarea 3)/10 - flags are stepic.md",
+    "plantilla.md",
+    "picoCTF/17 - picoCTF Forensic (Tarea 3)",
     "picoCTF/15 - picoCTF Crypto 1/07 - Wave over lambda.md",
     "picoCTF/16 - picoCTF Crypto 2",
     "picoCTF/15 - picoCTF Crypto 1/08 - interencdec.md",
@@ -204,15 +215,8 @@
     "picoCTF/14 - picoCTF Forensic 4/04 - Sleuthkit Apprentice.md",
     "picoCTF/14 - picoCTF Forensic 4/05 - Operation Orchid.md",
     "picoCTF/14 - picoCTF Forensic 4/06 - Operation Oni.md",
-    "README.md",
     "picoCTF/14 - picoCTF Forensic 4",
-    "picoCTF/13 - picoCTF Forensic 3/05 - MacroHard WeakEdge.md",
-    "picoCTF/13 - picoCTF Forensic 3/04 - tunn3l_v1s10n.md",
     "Pasted image 20251013184911.png",
-    "picoCTF/13 - picoCTF Forensic 3/03 - Matryoshka doll.md",
-    "picoCTF/13 - picoCTF Forensic 3/02 - Webnet1.md",
-    "picoCTF/13 - picoCTF Forensic 3/01 - WebNet0.md",
-    "picoCTF/12 - Primer Parcial/02 - parte 2/File 7 Java Code Analysis.md",
     "picoCTF/13 - picoCTF Forensic 3",
     "Pasted image 20250923233822.png",
     "Pasted image 20250922111636.png",
@@ -223,14 +227,10 @@
     "Pasted image 20250917102658.png",
     "Pasted image 20250904095046.png",
     "Pasted image 20250830140343.png",
-    "picoCTF/07 - picoCTF Web 3/01 - Irish-Name-Repo 1.md",
-    "picoCTF/07 - picoCTF Web 3/02 - More SQLi.md",
-    "picoCTF/07 - picoCTF Web 3/03 - JaWT Scratchpad.md",
     "picoCTF/12 - Primer Parcial/02 - parte 2",
     "picoCTF/12 - Primer Parcial/01 - parte 1",
     "picoCTF/12 - Primer Parcial",
     "picoCTF/11 - picoCTF Forensic 2",
-    "picoCTF/10 - PicoCTF Web (Tarea 2)",
-    "picoCTF/09 - picoCTF Forensic 1"
+    "picoCTF/10 - PicoCTF Web (Tarea 2)"
   ]
 }
