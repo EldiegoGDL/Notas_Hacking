@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/17 - picoCTF Forensic (Tarea 3)/09 - Ph4nt0m 1ntrud3r.md",
+                "file": "picoCTF/18 - picoCTF Crypto 3/04 - b00tl3gRSA2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 - Ph4nt0m 1ntrud3r"
+              "title": "04 - b00tl3gRSA2"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c3367a3412e2784c",
@@ -186,9 +185,15 @@
   },
   "active": "bf0e8262446e7dda",
   "lastOpenFiles": [
+    "picoCTF/18 - picoCTF Crypto 3/03 - b00tl3gRSA2.md",
+    "picoCTF/18 - picoCTF Crypto 3/04 - b00tl3gRSA2.md",
+    "picoCTF/18 - picoCTF Crypto 3/01 - miniRSA.md",
+    "picoCTF/18 - picoCTF Crypto 3/02 - Mind your Ps and Qs.md",
+    "plantilla.md",
+    "picoCTF/17 - picoCTF Forensic (Tarea 3)/09 - Ph4nt0m 1ntrud3r.md",
+    "picoCTF/18 - picoCTF Crypto 3",
     "picoCTF/17 - picoCTF Forensic (Tarea 3)/05 - Scan Surprice.md",
     "picoCTF/17 - picoCTF Forensic (Tarea 3)/08 - RED.md",
-    "picoCTF/17 - picoCTF Forensic (Tarea 3)/09 - Ph4nt0m 1ntrud3r.md",
     "picoCTF/17 - picoCTF Forensic (Tarea 3)/07 - Secret of the Polyglot.md",
     "picoCTF/17 - picoCTF Forensic (Tarea 3)/06 - CanYouSee.md",
     "picoCTF/17 - picoCTF Forensic (Tarea 3)/04 - hideme.md",
@@ -197,7 +202,6 @@
     "picoCTF/17 - picoCTF Forensic (Tarea 3)/01 - information.md",
     "picoCTF/16 - picoCTF Crypto 2/01 - rsa-pop-quiz.md",
     "picoCTF/17 - picoCTF Forensic (Tarea 3)/10 - flags are stepic.md",
-    "plantilla.md",
     "picoCTF/17 - picoCTF Forensic (Tarea 3)",
     "picoCTF/15 - picoCTF Crypto 1/07 - Wave over lambda.md",
     "picoCTF/16 - picoCTF Crypto 2",
@@ -211,10 +215,6 @@
     "picoCTF/14 - picoCTF Forensic 4/01 - Milkslap.md",
     "picoCTF/15 - picoCTF Crypto 1",
     "picoCTF/14 - picoCTF Forensic 4/02 - Disk, disk, sleuth!.md",
-    "picoCTF/14 - picoCTF Forensic 4/03 - Sleuthkit Intro.md",
-    "picoCTF/14 - picoCTF Forensic 4/04 - Sleuthkit Apprentice.md",
-    "picoCTF/14 - picoCTF Forensic 4/05 - Operation Orchid.md",
-    "picoCTF/14 - picoCTF Forensic 4/06 - Operation Oni.md",
     "picoCTF/14 - picoCTF Forensic 4",
     "Pasted image 20251013184911.png",
     "picoCTF/13 - picoCTF Forensic 3",
@@ -230,7 +230,6 @@
     "picoCTF/12 - Primer Parcial/02 - parte 2",
     "picoCTF/12 - Primer Parcial/01 - parte 1",
     "picoCTF/12 - Primer Parcial",
-    "picoCTF/11 - picoCTF Forensic 2",
-    "picoCTF/10 - PicoCTF Web (Tarea 2)"
+    "picoCTF/11 - picoCTF Forensic 2"
   ]
 }
